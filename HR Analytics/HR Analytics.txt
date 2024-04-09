@@ -1,0 +1,9 @@
+HR Analytics is based on employee attendance data. 
+
+With the help of Attendance data analysis we are able to uncover Insights like:
+	Employee attendance % (Presence in office, WFH and Sick Leave).
+	When to schedule Office maintenance work or a Team Building activity.
+	Plan infrastructure to reduce the cost.
+	
+The dataset can be found in the link:
+ https://codebasics.io/resources?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description&page=3
