@@ -1,5 +1,8 @@
 ### Netflix Data Analysis
 
+![Netflix](https://github.com/NagarjunP23/power-bi-projects/assets/53596669/a772cca6-57c1-43b0-b75c-11a2541bb443)
+
+
 Performed the below tasks to analyze the Netflix data:
 
 Download the dataset from: https://www.kaggle.com/datasets/shivamb/netflix-shows/data
